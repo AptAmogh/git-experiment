@@ -3,3 +3,5 @@ this is testing
 the first edit of the file in master branch
 
 feature1 - changes in the code
+
+now master has added some changes and it needs to be merged to feature1
